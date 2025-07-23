@@ -1,0 +1,14 @@
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.exe
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.deps.json
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.runtimeconfig.json
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.dll
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\bin\Debug\net8.0\ComposicaoPedido.pdb
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.AssemblyInfoInputs.cache
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.AssemblyInfo.cs
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.csproj.CoreCompileInputs.cache
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.dll
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\refint\ComposicaoPedido.dll
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.pdb
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ComposicaoPedido.genruntimeconfig.cache
+D:\PrimeiroProjeto\ComposicaoPedido\ComposicaoPedido\obj\Debug\net8.0\ref\ComposicaoPedido.dll
